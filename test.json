@@ -1,0 +1,8 @@
+{
+    "name": "OpenSea Test",
+    "description": "OpenSea Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
+    "image": "https://openseacreatures.io/image.png",
+    "external_link": "https://www.test.com",
+    "seller_fee_basis_points": 100, # Indicates a 1% seller fee.
+    "fee_recipient": "0x464c9b96f24AD969ff3E7874382C1af0Cec9E742" # Where seller fees will be paid to.
+  }
